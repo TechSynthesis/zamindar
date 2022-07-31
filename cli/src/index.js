@@ -47,8 +47,6 @@ const Main = async () => {
 
   if (fs.existsSync('.env')) {
     console.log('Found .env file and rely on it to run\n');
-    const envConfig = await askForEnvironmentVariables();
-    writeDotEnv(envConfig);
   } else {
     const envConfig = await askForEnvironmentVariables();
     writeDotEnv(envConfig);
