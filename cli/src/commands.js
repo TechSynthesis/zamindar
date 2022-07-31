@@ -39,9 +39,9 @@ const displayHeader = () => {
 const build = async () => {
   try {
     await runCompose(
-      ['build', '--no-cache', '--force-rm', '--quiet'],
+      ['build', '--no-cache', '--force-rm' ],
       { runMode: 'prod' },
-      { waitLog: 'building containers...' }
+ { waitLog: 'Building the application...' }
     );
 
     console.log(chalk.green('build completed'));
