@@ -38,6 +38,7 @@ const Main = async () => {
       'dev',
       'status',
       'config',
+      'setupenv',
       'restoredb',
       'dumpdb',
     ].includes(command)
@@ -74,6 +75,11 @@ const Main = async () => {
       const { runConfig = 'prod' } = await askRunMode();
       await config(runConfig);
       break;
+    }
+    case 'setupenv': {
+      const envConfig = await askForEnvironmentVariables();
+      writeDotEnv(envConfig);
+      break;    
     }
     case 'restoredb': {
       const backupFiles = [];
