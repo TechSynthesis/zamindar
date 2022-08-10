@@ -1,7 +1,7 @@
 {
   "name": "cli",
   "version": "1.0.0",
-  "description": "The MicroRealEstate CLI",
+  "description": "The Zamindar CLI",
   "main": "src/index.js",
   "private": true,
   "scripts": {
@@ -19,7 +19,7 @@
       "node16-win-x64"
     ]
   },
-  "author": "Camel Aissani",
+  "author": "Jason Rodrigues",
   "license": "MIT",
   "dependencies": {
     "chalk": "4.1.2",

@@ -16,7 +16,7 @@
     "refresh token",
     "authentication"
   ],
-  "author": "Camel Aissani",
+  "author": "Jason Rodrigues",
   "license": "MIT",
   "devDependencies": {
     "nodemon": "2.0.19"

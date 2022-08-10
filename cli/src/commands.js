@@ -23,7 +23,7 @@ const displayHeader = () => {
   clear();
   console.log(
     chalk.white(
-      figlet.textSync('MicroRealEstate', {
+      figlet.textSync('Zamindar', {
         horizontalLayout: 'full',
       })
     )

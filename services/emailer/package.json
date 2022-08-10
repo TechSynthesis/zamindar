@@ -15,7 +15,7 @@
     "email",
     "mailgun"
   ],
-  "author": "Camel Aissani",
+  "author": "Jason Rodrigues",
   "license": "MIT",
   "dependencies": {
     "@mre/common": "*",

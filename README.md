@@ -73,13 +73,13 @@ Take your favorite internet navigator and go to this link: http://localhost:8080
 
 Support me to work on this project and to enjoy one coffee or two :raised_hands:
 
-[![Donate](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub)](https://github.com/sponsors/camelaissani)
+[![Donate](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub)](https://github.com/sponsors/TechSynthesis)
 
 ## Contact
 
-* LinkedIn: [www.linkedin.com/in/caissani](https://www.linkedin.com/in/caissani/)
-* twitter: [@camelaissani](https://twitter.com/camelaissani)
-* website: https://www.nuageprive.fr/
+* LinkedIn: [www.linkedin.com/in/](https://www.linkedin.com/in/)
+* twitter: [@techinverted](https://twitter.com/techinverted)
+* website: https://www.jasonrodrigues.com/
 
 ## License
 

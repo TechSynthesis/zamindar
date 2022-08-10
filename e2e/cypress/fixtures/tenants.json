@@ -1,6 +1,6 @@
 [
   {
-    "name": "Camel Aissani",
+    "name": "Jason Rodrigues",
     "isCompany": false,
     "address": {
       "street1": "123 rue Saint-Jacques",
@@ -12,7 +12,7 @@
     },
     "contacts": [
       {
-        "name": "Camel Aissani",
+        "name": "Jason Rodrigues",
         "email": "camel@test.com",
         "phone1": "0123456789",
         "phone2": "9876543210"
@@ -45,7 +45,10 @@
       "percentageVatRatio": 20
     },
     "documents": [
-      { "type": "text", "templateName": "Bail" },
+      {
+        "type": "text",
+        "templateName": "Bail"
+      },
       {
         "type": "text",
         "title": "Mon document",

@@ -17,7 +17,7 @@
     "document",
     "pdf"
   ],
-  "author": "Camel Aissani",
+  "author": "Jason Rodrigues",
   "license": "MIT",
   "dependencies": {
     "@mre/common": "*",

@@ -1,7 +1,7 @@
 {
   "name": "e2e",
   "version": "1.0.0",
-  "description": "MicroRealEstate e2e tests",
+  "description": "Zamindar e2e tests",
   "private": true,
   "scripts": {
     "cypress:open": "cypress open",
@@ -9,7 +9,7 @@
     "lint": "eslint .",
     "format": "prettier --write '**/*.{js,jsx,ts,tsx,json,css}'"
   },
-  "author": "Camel Aissani",
+  "author": "Jason Rodrigues",
   "license": "MIT",
   "devDependencies": {
     "cypress": "10.3.0",

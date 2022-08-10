@@ -1,8 +1,8 @@
 {
   "name": "@mre/common",
   "version": "1.0.0",
-  "description": "Common modules required for the MicroRealEstate application'",
-  "author": "Camel Aissani",
+  "description": "Common modules required for the Zamindar application'",
+  "author": "Jason Rodrigues",
   "license": "MIT",
   "private": true,
   "dependencies": {

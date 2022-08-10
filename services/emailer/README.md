@@ -2,7 +2,7 @@
 
 # emailer
 Generates and sends emails.
-This service is part of the MicroRealEstate application more [here](https://github.com/microrealestate/microrealestate/blob/master/README.md).
+This service is part of the Zamindar application more [here](https://github.com/microrealestate/microrealestate/blob/master/README.md).
 
 # API
 

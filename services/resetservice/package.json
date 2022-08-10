@@ -1,7 +1,7 @@
 {
   "name": "resetservice",
   "version": "1.0.0",
-  "description": "Service which allows to reset the MicroRealEstate databases",
+  "description": "Service which allows to reset the Zamindar databases",
   "main": "src/index.js",
   "private": true,
   "scripts": {
@@ -11,7 +11,7 @@
     "lint": "eslint .",
     "format": "prettier --write '**/*.{js,jsx,ts,tsx,json,css}'"
   },
-  "author": "Camel Aissani",
+  "author": "Jason Rodrigues",
   "license": "MIT",
   "dependencies": {
     "@mre/common": "*",

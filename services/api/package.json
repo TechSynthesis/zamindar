@@ -11,7 +11,7 @@
     "lint": "eslint .",
     "format": "prettier --write '**/*.{js,jsx,ts,tsx,json,css}'"
   },
-  "author": "Camel Aissani",
+  "author": "Jason Rodrigues",
   "license": "MIT",
   "dependencies": {
     "@mre/common": "*",
