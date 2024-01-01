@@ -1,12 +1,12 @@
 {
-  "name": "microrealestate",
+  "name": "zamindar",
   "version": "1.0.0-alpha.1",
   "description": "The application which helps the landlords to manage their property rents.",
   "main": "index.js",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/microrealestate/microrealestate.git"
+    "url": "git+https://github.com/techsythesis/zamindar.git"
   },
   "keywords": [
     "property management",
@@ -19,9 +19,9 @@
   "author": "Jason Rodrigues",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/microrealestate/microrealestate/issues"
+    "url": "https://github.com/techsythesis/zamindar/issues"
   },
-  "homepage": "https://github.com/microrealestate/microrealestate#readme",
+  "homepage": "https://github.com/techsythesis/zamindar#readme",
   "workspaces": [
     "cli",
     "e2e",
