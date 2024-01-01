@@ -1,4 +1,4 @@
-# Microrealestate
+# Zamindar
 
 The application which helps the landlords to manage their property rents.
 
@@ -36,12 +36,12 @@ The main functionalities are:
 
 ### Clone the GitHub repository
 ```shell
-$ git clone --recursive https://github.com/microrealestate/microrealestate.git
+$ git clone --recursive https://github.com/TechSynthesis/zamindar.git
 ```
 
-### Go to the microrealestate
+### Go to the zamindar
 ```shell
-$ cd microrealestate
+$ cd zamindar
 ```
 
 ### Build the application
@@ -66,7 +66,7 @@ Take your favorite internet navigator and go to this link: http://localhost:8080
 
 ## Community
 
-* Contribute on [Issues](https://github.com/microrealestate/microrealestate/issues)
+* Contribute on [Issues](https://github.com/techsynthesis/zamindar/issues)
 * [Run and debug the application](./documentation/DEVELOPER.md)
 
 ## Donation
@@ -77,9 +77,9 @@ Support me to work on this project and to enjoy one coffee or two :raised_hands:
 
 ## Contact
 
-* LinkedIn: [www.linkedin.com/in/](https://www.linkedin.com/in/)
+* LinkedIn: [www.linkedin.com/in/](https://www.linkedin.com/in/jasonrochrodrigues)
 * twitter: [@techinverted](https://twitter.com/techinverted)
-* website: https://www.jasonrodrigues.com/
+* website: https://www.techinverted.com/
 
 ## License
 
